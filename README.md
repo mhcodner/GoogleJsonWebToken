@@ -24,7 +24,7 @@ to do. This can be obtained from the [Google Developer console][4].
    in your project that isn't publicly accessible such as `~/App_Data/`.
 
 Then you can request an access token using
-```
+```csharp
 var auth = GoogleJsonWebToken.GetAccessToken(
     "foo@developer.gserviceaccount.com",
     Server.MapPath("~/App_Data/key.p12"),
