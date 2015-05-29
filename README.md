@@ -14,6 +14,7 @@ the user profile doesn't exist in Azure Websites.
 
 ## How do I use it?
 First you need
+
 1. A Google account
 2. A Google Service Account with the appropriate API access for what you want
 to do. This can be obtained from the [Google Developer console][4].
